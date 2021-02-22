@@ -1,2 +1,2 @@
 # Coursera
-Repository for Coursea test. 
+Repository for Coursera test. 
